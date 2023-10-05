@@ -1,3 +1,8 @@
+# datasets
+week02_classification/MNIST
+week02_classification/Train_rev1.zip
+week02_classification/lightning_logs/
+
 # node and NPM
 npm-debug.log
 node_modules
